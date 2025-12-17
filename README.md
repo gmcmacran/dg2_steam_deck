@@ -8,7 +8,7 @@ This repo contains a few helpful python scripts and community levels for defense
 1: In steam, set defense grid 2 to run in compatibility model.
 
   * Properties -> Comparability -> Check the force box -> latest stable proton.
-  * At writing, latest stable proton is 9.0-4.
+  * At writing, the latest stable proton is 9.0-4.
 
 2: In file explorer navigate to folder
 
@@ -19,7 +19,7 @@ This repo contains a few helpful python scripts and community levels for defense
 * Note the .steam folder is hidden from the G.U.I. You will have to navigate to it using the address bar.
 
 
-3: Make folder called DG2 inside the above folders.
+3: Make a folder called DG2 inside the above folders.
 
 4: Download the DG2_batch_<number>.zip files from [google drive](https://drive.google.com/drive/u/0/folders/11ZdOrdAJ0FocGhqsKybbOFtW3hV3C4h9).
 
@@ -28,14 +28,14 @@ This repo contains a few helpful python scripts and community levels for defense
 
 5: Unzip the DG2_batch_<number>.zip files and copy contents into the DG2 folder in step 3.
 
-  * Only copy one batch into the DG2 folder. When you are done with those maps, delete them from DG2 folder and copy the next batch in. Don't have more than 40 maps in the DG2 folder at any one point in time.
+  * Only copy one batch into the DG2 folder. When you are done with those maps, delete them from the DG2 folder and copy the next batch in. Don't have more than 40 maps in the DG2 folder at any one point in time.
 
 # Background
 
 ## What is a map?
-The map is the inner folder that contains files and no sub directories. The map is not the outer folder containing one sub directory and one file. For example, the “Aces-Wild” downloaded zip file contains the “Ace Wild” subfolder. The inner “Ace Wild” (with space) is the map and should be copied over to DG2 folder. Coping the “Ace-Wild” (with hyphen) outer folder will not work.
+The map is the inner folder that contains files and no sub directories. The map is not the outer folder containing one sub directory and one file. For example, the “Aces-Wild” downloaded zip file contains the “Ace Wild” subfolder. The inner “Ace Wild” (with space) is the map and should be copied over to the DG2 folder. Coping the “Ace-Wild” (with hyphen) outer folder will not work.
 
-## How many maps can I have inside of the DG2 foler?
+## How many maps can I have inside of the DG2 folder?
 You cannot copy all maps into the folder at once because Defense grid 2 will crash. 40 maps at any point in time works well. This repo contains batches of 40 maps.
 
 I included the AdditionalDifficultyLevels folder in each batch. This is a difficulty changer, not a map.
