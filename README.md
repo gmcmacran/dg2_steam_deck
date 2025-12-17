@@ -22,7 +22,9 @@ This repo contains a few helpful python scripts and community levels for defense
 3: Make folder called DG2 inside the above folders.
 
 4: Download the DG2_batch_<number>.zip files from [google drive](https://drive.google.com/drive/u/0/folders/11ZdOrdAJ0FocGhqsKybbOFtW3hV3C4h9).
-There are 
+
+* There are 540 maps and one mod included.
+* These are all available maps as of 12-16-2025
 
 5: Unzip the DG2_batch_<number>.zip files and copy contents into the DG2 folder in step 3.
 
