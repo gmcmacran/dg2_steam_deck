@@ -2,7 +2,7 @@
 
 This repo contains a few helpful python scripts and community levels for defense grid.
 
-# Just give me the levels
+# Adding the levels to the steam deck.
 
 
 1: In steam, set defense grid 2 to run in compatibility model.
@@ -15,6 +15,8 @@ This repo contains a few helpful python scripts and community levels for defense
 * **Mint**: home/<profile name>/.steam/steam/steamapps/compatdata/221540/pfx/drive_c/users/steamuser/Documents
 * **Steam Deck**: /home/deck/.steam/steam/steamapps/compatdata/221540/pfx/drive_c/users/steamuser/Documents
 * App ID 221540 is Defense Grid 2.
+* Other Linux destro should be very similar. The important part of the path is .steam/steam/steamapps/compatdata/221540/pfx/drive_c/users/steamuser/Documents
+* Note the .steam folder is hidden from the G.U.I. You will have to navigate to it using the address bar.
 
 
 3: Make folder called DG2 inside the above folders.
