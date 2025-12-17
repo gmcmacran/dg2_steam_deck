@@ -12,7 +12,7 @@ This repo contains a few helpful python scripts and community levels for defense
 
 2: In file explorer navigate to folder
 
-* **Mint**: home/<profile name>/.steam/steam/steamapps/compatdata/221540/pfx/drive_c/users/steamuser/Documents
+* **Mint**: /home/user_name/.steam/steam/steamapps/compatdata/221540/pfx/drive_c/users/steamuser/Documents
 * **Steam Deck**: /home/deck/.steam/steam/steamapps/compatdata/221540/pfx/drive_c/users/steamuser/Documents
 * App ID 221540 is Defense Grid 2.
 * Other Linux destro should be very similar. The important part of the path is .steam/steam/steamapps/compatdata/221540/pfx/drive_c/users/steamuser/Documents
@@ -24,7 +24,7 @@ This repo contains a few helpful python scripts and community levels for defense
 4: Download the DG2_batch_<number>.zip files from [google drive](https://drive.google.com/drive/u/0/folders/11ZdOrdAJ0FocGhqsKybbOFtW3hV3C4h9).
 
 * There are 540 maps and one mod included.
-* These are all available maps as of 12-16-2025
+* These are all available maps as of 12-16-2025.
 
 5: Unzip the DG2_batch_<number>.zip files and copy contents into the DG2 folder in step 3.
 
